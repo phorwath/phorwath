@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phorwath
+- 👋 Hi, I’m @thespielplatz
 - 👀 I’m interested in Board Games, Digital Games, Automation, Coding
 - 🌱 I’m currently learning how to Sing and play the piano
 - 💞️ I’m looking to collaborate on project's that have an value for users!
