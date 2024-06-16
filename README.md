@@ -14,6 +14,9 @@ Some of my software projects can be found at [tsp.tools](https://tsp.tools/). He
 #### Bitcoin Related Projects
 - **[TSPI Blockclock](https://github.com/thespielplatz/tspi-blockclock)**: A private homebrew project for a bitcoin blockclock using Raspberry Pi Zero W and Neopixels.
 - **[BackupCard](https://github.com/thespielplatz/BackupCard)**: A secure and efficient way to backup Bitcoin private keys and important information.
+- **[Freezer](https://github.com/thespielplatz/BackupCard/tree/main/freezer)** :A live linux which can be loaded into RAM and the usb drive can be plugged off.
+
+
 
 ### 🎶 Personal Growth
 I am currently learning how to sing and play the piano, expanding my creative horizons.
