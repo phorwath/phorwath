@@ -6,7 +6,7 @@ I am currently working as a coder at [Satoshi Engineering](https://satoshiengine
 Some of my software projects can be found at [tsp.tools](https://tsp.tools/). Here's a brief overview of my projects:
 
 #### Software Projects
-- **[FOOS Tools of TheSpielplatz](https://github.com/thespielplatz/foos-tsp-tools)**: A free and open source collection of tools from my daily work life, that I improved by coding them myself. Currently includes:
+- **[FOSS Tools of TheSpielplatz](https://github.com/thespielplatz/foos-tsp-tools)**: A free and open source collection of tools from my daily work life, that I improved by coding them myself. Currently includes:
   - **[Web Lightning Wallet](https://foss.tsp.tools/wallet)**: A quick development lightning wallet with lnurl auth capability.
 
 #### Hardware Projects
