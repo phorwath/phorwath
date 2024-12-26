@@ -7,7 +7,7 @@ Some of my software projects can be found at [tsp.tools](https://tsp.tools/). He
 
 #### Software Projects
 - **[FOOS Tools of TheSpielplatz](https://github.com/thespielplatz/foos-tsp-tools)**: A free and open source collection of tools from my daily work life, that I improved by coding them myself. Currently includes:
-  - **[Web Lightning Wallet](https://foos.tsp.tools/wallet)**: A quick development lightning wallet with lnurl auth capability.
+  - **[Web Lightning Wallet](https://foss.tsp.tools/wallet)**: A quick development lightning wallet with lnurl auth capability.
 
 #### Hardware Projects
 - **[ESP Battery Shield](https://github.com/thespielplatz/esp-battery-shield)**: A hardware solution to provide stable power supply for ESP devices and monitor battery percentage.
